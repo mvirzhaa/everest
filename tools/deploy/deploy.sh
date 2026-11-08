@@ -36,3 +36,4 @@ echo "Deployment selesai!"
 echo "Everest berjalan di belakang reverse proxy: https://sc.uika-bogor.ac.id/everest"
 echo "Periksa log dengan: docker compose logs -f backend"
 echo "=============================================================================="
+

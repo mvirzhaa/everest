@@ -48,3 +48,4 @@ jobs:
           JWT_SECRET: ci-test-secret-key-32chars-minimum-needed
           DEV_LOGIN: 'false'
         run: npm test
+

@@ -19,7 +19,7 @@ services:
     environment:
       DATABASE_URL: postgres://everest:${DB_PASSWORD}@db:5432/everest
     ports:
-      - "127.0.0.1:8080:8080"
+      - "127.0.0.1:${HOST_PORT:-8088}:8080"
     volumes:
       - everest-data:/data
       - ./secrets/fcm.json:/run/secrets/fcm.json:ro

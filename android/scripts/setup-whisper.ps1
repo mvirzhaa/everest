@@ -13,3 +13,4 @@ if ((Test-Path "$dest\.git") -or (Test-Path "$dest\CMakeLists.txt")) {
 Write-Host "Mengunduh whisper.cpp ($tag) ke $dest..."
 git clone --depth 1 --branch $tag https://github.com/ggml-org/whisper.cpp.git $dest
 Write-Host "Selesai: whisper.cpp $tag berhasil diunduh ke $dest"
+

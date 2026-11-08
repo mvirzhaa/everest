@@ -1,0 +1,50 @@
+name: Everest CI
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  test-backend:
+    name: Backend Tests & Migrations
+    runs-on: ubuntu-latest
+
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_DB: everest_test
+          POSTGRES_USER: everest
+          POSTGRES_PASSWORD: everest_password
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+          cache-dependency-path: backend/package-lock.json
+
+      - name: Install dependencies
+        working-directory: backend
+        run: npm ci
+
+      - name: Run migrations & test suite
+        working-directory: backend
+        env:
+          DATABASE_URL: postgres://everest:everest_password@localhost:5432/everest_test
+          JWT_SECRET: ci-test-secret-key-32chars-minimum-needed
+          DEV_LOGIN: 'false'
+        run: npm test

@@ -1,0 +1,29 @@
+# Menjalankan backend Everest + PostgreSQL di server kampus (cukup CPU, tanpa GPU).
+# Pakai di belakang reverse proxy HTTPS (lihat README untuk contoh nginx dengan WebSocket).
+services:
+  db:
+    image: postgres:16
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: everest
+      POSTGRES_USER: everest
+      POSTGRES_PASSWORD: ${DB_PASSWORD:?isi DB_PASSWORD}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  backend:
+    build: ./backend
+    restart: unless-stopped
+    depends_on: [db]
+    env_file: ./backend/.env
+    environment:
+      DATABASE_URL: postgres://everest:${DB_PASSWORD}@db:5432/everest
+    ports:
+      - "127.0.0.1:8080:8080"
+    volumes:
+      - everest-data:/data
+      - ./secrets/fcm.json:/run/secrets/fcm.json:ro
+
+volumes:
+  pgdata:
+  everest-data:

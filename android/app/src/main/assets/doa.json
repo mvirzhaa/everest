@@ -1,0 +1,1245 @@
+{
+ "version": 1,
+ "categories": [
+  {
+   "id": "perjalanan",
+   "title": "Doa Perjalanan & Bepergian",
+   "subtitle": "Dari keluar rumah sampai pulang",
+   "items": [
+    {
+     "id": "keluar-rumah",
+     "category": "perjalanan",
+     "title": "Doa keluar rumah",
+     "when": "Saat melangkah keluar rumah",
+     "source": "HR. Abu Dawud no. 5095 dan At-Tirmidzi no. 3426",
+     "note": null,
+     "repeat": null,
+     "arabic": "بِسْمِ اللهِ، تَوَكَّلْتُ عَلَى اللهِ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
+     "latin": "Bismillāhi, tawakkaltu 'alallāh, lā haula wa lā quwwata illā billāh.",
+     "meaning": "Dengan nama Allah, aku bertawakal kepada Allah. Tiada daya dan kekuatan kecuali dengan (pertolongan) Allah.",
+     "verses": []
+    },
+    {
+     "id": "keluar-rumah-2",
+     "category": "perjalanan",
+     "title": "Doa agar tidak tersesat dan tidak dizalimi",
+     "when": "Saat keluar rumah",
+     "source": "HR. Abu Dawud no. 5094, At-Tirmidzi no. 3427, dan Ibnu Majah no. 3884",
+     "note": null,
+     "repeat": null,
+     "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أَضِلَّ أَوْ أُضَلَّ، أَوْ أَزِلَّ أَوْ أُزَلَّ، أَوْ أَظْلِمَ أَوْ أُظْلَمَ، أَوْ أَجْهَلَ أَوْ يُجْهَلَ عَلَيَّ",
+     "latin": "Allāhumma innī a'ūdzu bika an adhilla au udhalla, au azilla au uzalla, au azhlima au uzhlama, au ajhala au yujhala 'alayya.",
+     "meaning": "Ya Allah, aku berlindung kepada-Mu dari tersesat atau disesatkan, tergelincir atau digelincirkan, menzalimi atau dizalimi, dan dari berbuat bodoh atau diperlakukan dengan bodoh.",
+     "verses": []
+    },
+    {
+     "id": "naik-kendaraan",
+     "category": "perjalanan",
+     "title": "Doa naik kendaraan",
+     "when": "Saat menaiki motor, mobil, bus, kereta, atau pesawat",
+     "source": "HR. Abu Dawud no. 2602 dan At-Tirmidzi no. 3446; ayatnya QS. Az-Zukhruf: 13–14",
+     "note": null,
+     "repeat": null,
+     "arabic": "بِسْمِ اللهِ، الْحَمْدُ لِلَّهِ، سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ. الْحَمْدُ لِلَّهِ (٣×)، اللهُ أَكْبَرُ (٣×)، سُبْحَانَكَ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي، فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+     "latin": "Bismillāh. Al-hamdu lillāh. Subhānalladzī sakhkhara lanā hādzā wa mā kunnā lahū muqrinīn, wa innā ilā rabbinā lamunqalibūn. Al-hamdu lillāh (3×), Allāhu akbar (3×). Subhānaka innī zhalamtu nafsī faghfir lī, fa innahū lā yaghfirudz-dzunūba illā ant.",
+     "meaning": "Dengan nama Allah. Segala puji bagi Allah. Mahasuci Allah yang telah menundukkan (kendaraan) ini untuk kami, padahal sebelumnya kami tidak mampu menguasainya, dan sesungguhnya kami akan kembali kepada Tuhan kami. Segala puji bagi Allah (3×), Allah Mahabesar (3×). Mahasuci Engkau, sungguh aku telah menzalimi diriku, maka ampunilah aku, karena tidak ada yang mengampuni dosa selain Engkau.",
+     "verses": []
+    },
+    {
+     "id": "safar",
+     "category": "perjalanan",
+     "title": "Doa safar (bepergian jauh)",
+     "when": "Setelah duduk di kendaraan saat memulai perjalanan jauh",
+     "source": "HR. Muslim no. 1342",
+     "note": "Saat pulang, bacaan yang sama ditambah: Āyibūna tā'ibūna 'ābidūna lirabbinā hāmidūn.",
+     "repeat": null,
+     "arabic": "اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ، اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى، اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهُ، اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ، وَالْخَلِيفَةُ فِي الْأَهْلِ، اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ، وَكَآبَةِ الْمَنْظَرِ، وَسُوءِ الْمُنْقَلَبِ فِي الْمَالِ وَالْأَهْلِ",
+     "latin": "Allāhu akbar, Allāhu akbar, Allāhu akbar. Subhānalladzī sakhkhara lanā hādzā wa mā kunnā lahū muqrinīn, wa innā ilā rabbinā lamunqalibūn. Allāhumma innā nas'aluka fī safarinā hādzal-birra wat-taqwā, wa minal-'amali mā tardhā. Allāhumma hawwin 'alainā safaranā hādzā wathwi 'annā bu'dah. Allāhumma antash-shāhibu fis-safar, wal-khalīfatu fil-ahl. Allāhumma innī a'ūdzu bika min wa'tsā'is-safar, wa ka'ābatil-manzhar, wa sū'il-munqalabi fil-māli wal-ahl.",
+     "meaning": "Allah Mahabesar (3×). Mahasuci Allah yang telah menundukkan (kendaraan) ini untuk kami, padahal sebelumnya kami tidak mampu menguasainya, dan sesungguhnya kami akan kembali kepada Tuhan kami. Ya Allah, kami memohon kepada-Mu dalam perjalanan kami ini kebaikan dan takwa, serta amal yang Engkau ridai. Ya Allah, mudahkanlah perjalanan kami ini dan dekatkanlah jaraknya bagi kami. Ya Allah, Engkaulah pendamping dalam perjalanan dan pengganti (penjaga) bagi keluarga yang ditinggalkan. Ya Allah, aku berlindung kepada-Mu dari kesulitan perjalanan, pemandangan yang menyedihkan, dan kepulangan yang buruk dalam harta dan keluarga.",
+     "verses": []
+    },
+    {
+     "id": "naik-kapal",
+     "category": "perjalanan",
+     "title": "Doa naik kapal atau perahu",
+     "when": "Saat menaiki kapal, perahu, atau kendaraan air",
+     "source": "QS. Hud: 41",
+     "note": null,
+     "repeat": null,
+     "arabic": "بِسْمِ اللَّهِ مَجْرَاهَا وَمُرْسَاهَا ۚ إِنَّ رَبِّي لَغَفُورٌ رَّحِيمٌ",
+     "latin": "Bismillāhi majrēhā wa mursāhā, inna rabbī laghafūrur rahīm.",
+     "meaning": "Dengan nama Allah pada waktu berlayar dan berlabuhnya. Sesungguhnya Tuhanku benar-benar Maha Pengampun, Maha Penyayang.",
+     "verses": []
+    },
+    {
+     "id": "menanjak-menurun",
+     "category": "perjalanan",
+     "title": "Saat jalan menanjak dan menurun",
+     "when": "Saat kendaraan naik tanjakan atau menuruni jalan",
+     "source": "HR. Al-Bukhari no. 2993, dari Jabir bin Abdillah",
+     "note": null,
+     "repeat": null,
+     "arabic": "اللهُ أَكْبَرُ\nسُبْحَانَ اللهِ",
+     "latin": "Saat menanjak: Allāhu akbar. Saat menurun: Subhānallāh.",
+     "meaning": "Allah Mahabesar (ketika naik). Mahasuci Allah (ketika turun).",
+     "verses": []
+    },
+    {
+     "id": "singgah",
+     "category": "perjalanan",
+     "title": "Doa singgah di suatu tempat",
+     "when": "Saat berhenti atau menginap di tempat baru",
+     "source": "HR. Muslim no. 2708",
+     "note": "Siapa yang membacanya saat singgah, tidak ada sesuatu pun yang membahayakannya sampai ia berangkat dari tempat itu.",
+     "repeat": null,
+     "arabic": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+     "latin": "A'ūdzu bikalimātillāhit-tāmmāti min syarri mā khalaq.",
+     "meaning": "Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari kejahatan makhluk yang Dia ciptakan.",
+     "verses": []
+    },
+    {
+     "id": "masuk-kota",
+     "category": "perjalanan",
+     "title": "Doa memasuki kota atau desa",
+     "when": "Saat melihat atau memasuki kota/desa tujuan",
+     "source": "HR. An-Nasa'i dalam As-Sunan Al-Kubra, Ibnu Hibban, dan Al-Hakim",
+     "note": null,
+     "repeat": null,
+     "arabic": "اللَّهُمَّ رَبَّ السَّمَاوَاتِ السَّبْعِ وَمَا أَظْلَلْنَ، وَرَبَّ الْأَرَضِينَ السَّبْعِ وَمَا أَقْلَلْنَ، وَرَبَّ الشَّيَاطِينِ وَمَا أَضْلَلْنَ، وَرَبَّ الرِّيَاحِ وَمَا ذَرَيْنَ، أَسْأَلُكَ خَيْرَ هَذِهِ الْقَرْيَةِ وَخَيْرَ أَهْلِهَا وَخَيْرَ مَا فِيهَا، وَأَعُوذُ بِكَ مِنْ شَرِّهَا وَشَرِّ أَهْلِهَا وَشَرِّ مَا فِيهَا",
+     "latin": "Allāhumma rabbas-samāwātis-sab'i wa mā azhlalna, wa rabbal-aradhīnas-sab'i wa mā aqlalna, wa rabbasy-syayāthīni wa mā adhlalna, wa rabbar-riyāhi wa mā dzaraina, as'aluka khaira hādzihil-qaryati wa khaira ahlihā wa khaira mā fīhā, wa a'ūdzu bika min syarrihā wa syarri ahlihā wa syarri mā fīhā.",
+     "meaning": "Ya Allah, Tuhan tujuh langit dan apa yang dinaunginya, Tuhan tujuh bumi dan apa yang dipikulnya, Tuhan setan-setan dan apa yang disesatkannya, Tuhan angin dan apa yang diterbangkannya. Aku memohon kepada-Mu kebaikan negeri ini, kebaikan penduduknya, dan kebaikan apa yang ada di dalamnya; dan aku berlindung kepada-Mu dari keburukannya, keburukan penduduknya, dan keburukan apa yang ada di dalamnya.",
+     "verses": []
+    },
+    {
+     "id": "takut-bahaya",
+     "category": "perjalanan",
+     "title": "Doa saat khawatir terhadap orang atau bahaya",
+     "when": "Saat merasa terancam oleh suatu kaum atau keadaan",
+     "source": "HR. Abu Dawud no. 1537",
+     "note": "Dalam keadaan darurat, tekan juga tombol Panic agar satpam dan kontak darurat menerima lokasi Anda.",
+     "repeat": null,
+     "arabic": "اللَّهُمَّ إِنَّا نَجْعَلُكَ فِي نُحُورِهِمْ، وَنَعُوذُ بِكَ مِنْ شُرُورِهِمْ",
+     "latin": "Allāhumma innā naj'aluka fī nuhūrihim, wa na'ūdzu bika min syurūrihim.",
+     "meaning": "Ya Allah, kami menjadikan Engkau di hadapan mereka (sebagai penghalang), dan kami berlindung kepada-Mu dari kejahatan mereka.",
+     "verses": []
+    },
+    {
+     "id": "tergelincir",
+     "category": "perjalanan",
+     "title": "Saat kendaraan tergelincir atau tersandung",
+     "when": "Saat kendaraan oleng, tergelincir, atau tersandung",
+     "source": "HR. Abu Dawud no. 4982",
+     "note": "Nabi ﷺ mengajarkan mengucapkan \"bismillāh\", bukan mencela setan, saat tunggangan tergelincir.",
+     "repeat": null,
+     "arabic": "بِسْمِ اللهِ",
+     "latin": "Bismillāh.",
+     "meaning": "Dengan nama Allah.",
+     "verses": []
+    },
+    {
+     "id": "pamit-musafir",
+     "category": "perjalanan",
+     "title": "Doa berpamitan (diucapkan yang bepergian)",
+     "when": "Saat berpamitan kepada keluarga atau teman",
+     "source": "HR. Ibnu Majah no. 2825 dan Ahmad",
+     "note": null,
+     "repeat": null,
+     "arabic": "أَسْتَوْدِعُكُمُ اللهَ الَّذِي لَا تَضِيعُ وَدَائِعُهُ",
+     "latin": "Astaudi'ukumullāhal-ladzī lā tadhī'u wadā'i'uh.",
+     "meaning": "Aku titipkan kalian kepada Allah, yang tidak akan menyia-nyiakan titipan-Nya.",
+     "verses": []
+    },
+    {
+     "id": "melepas-musafir",
+     "category": "perjalanan",
+     "title": "Doa melepas orang yang bepergian",
+     "when": "Diucapkan oleh yang ditinggal kepada yang akan bepergian",
+     "source": "HR. Abu Dawud no. 2600 dan At-Tirmidzi no. 3443",
+     "note": null,
+     "repeat": null,
+     "arabic": "أَسْتَوْدِعُ اللهَ دِينَكَ وَأَمَانَتَكَ وَخَوَاتِيمَ عَمَلِكَ",
+     "latin": "Astaudi'ullāha dīnaka wa amānataka wa khawātīma 'amalik.",
+     "meaning": "Aku titipkan kepada Allah agamamu, amanahmu, dan akhir amalmu.",
+     "verses": []
+    },
+    {
+     "id": "bekal-takwa",
+     "category": "perjalanan",
+     "title": "Doa untuk teman yang akan bepergian",
+     "when": "Saat teman meminta didoakan sebelum berangkat",
+     "source": "HR. At-Tirmidzi no. 3444",
+     "note": null,
+     "repeat": null,
+     "arabic": "زَوَّدَكَ اللهُ التَّقْوَى، وَغَفَرَ ذَنْبَكَ، وَيَسَّرَ لَكَ الْخَيْرَ حَيْثُمَا كُنْتَ",
+     "latin": "Zawwadakallāhut-taqwā, wa ghafara dzanbaka, wa yassara lakal-khaira haitsumā kunt.",
+     "meaning": "Semoga Allah membekalimu dengan takwa, mengampuni dosamu, dan memudahkan kebaikan bagimu di mana pun engkau berada.",
+     "verses": []
+    },
+    {
+     "id": "pulang",
+     "category": "perjalanan",
+     "title": "Doa pulang dari perjalanan",
+     "when": "Saat kembali dari bepergian",
+     "source": "HR. Al-Bukhari no. 1797 dan Muslim no. 1342",
+     "note": null,
+     "repeat": null,
+     "arabic": "آيِبُونَ، تَائِبُونَ، عَابِدُونَ، لِرَبِّنَا حَامِدُونَ",
+     "latin": "Āyibūna, tā'ibūna, 'ābidūna, lirabbinā hāmidūn.",
+     "meaning": "Kami kembali, bertobat, beribadah, dan kepada Tuhan kami kami memuji.",
+     "verses": []
+    },
+    {
+     "id": "perlindungan-harian",
+     "category": "perjalanan",
+     "title": "Doa perlindungan pagi dan petang",
+     "when": "Dibaca 3× setiap pagi dan petang",
+     "source": "HR. Abu Dawud no. 5088 dan At-Tirmidzi no. 3388",
+     "note": null,
+     "repeat": "3×",
+     "arabic": "بِسْمِ اللهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ، وَهُوَ السَّمِيعُ الْعَلِيمُ",
+     "latin": "Bismillāhil-ladzī lā yadhurru ma'asmihī syai'un fil-ardhi wa lā fis-samā', wa huwas-samī'ul-'alīm.",
+     "meaning": "Dengan nama Allah, yang bersama nama-Nya tidak ada sesuatu pun di bumi maupun di langit yang dapat membahayakan, dan Dia Maha Mendengar, Maha Mengetahui.",
+     "verses": []
+    }
+   ]
+  },
+  {
+   "id": "kursi",
+   "title": "Ayat Kursi",
+   "subtitle": "Al-Baqarah: 255",
+   "items": [
+    {
+     "id": "ayat-kursi",
+     "category": "kursi",
+     "title": "Ayat Kursi",
+     "when": "Setelah salat fardu dan sebelum tidur",
+     "source": "QS. Al-Baqarah: 255",
+     "note": "Siapa yang membacanya sebelum tidur, ia senantiasa dijaga oleh Allah dan setan tidak akan mendekatinya hingga pagi (HR. Al-Bukhari no. 2311).",
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "Al-Baqarah: 255",
+       "number": 255,
+       "numberAr": "٢٥٥",
+       "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+       "latin": "Allāhu lā ilāha illā huwal-hayyul-qayyūm, lā ta'khudzuhū sinatuw wa lā naum, lahū mā fis-samāwāti wa mā fil-ardh, man dzal-ladzī yasyfa'u 'indahū illā bi'idznih, ya'lamu mā baina aidīhim wa mā khalfahum, wa lā yuhīthūna bisyai'im min 'ilmihī illā bimā syā', wasi'a kursiyyuhus-samāwāti wal-ardh, wa lā ya'ūduhū hifzhuhumā, wa huwal-'aliyyul-'azhīm.",
+       "meaning": "Allah, tidak ada tuhan selain Dia. Yang Mahahidup, Yang terus menerus mengurus (makhluk-Nya), tidak mengantuk dan tidak tidur. Milik-Nya apa yang ada di langit dan apa yang ada di bumi. Tidak ada yang dapat memberi syafaat di sisi-Nya tanpa izin-Nya. Dia mengetahui apa yang di hadapan mereka dan apa yang di belakang mereka, dan mereka tidak mengetahui sesuatu apa pun tentang ilmu-Nya melainkan apa yang Dia kehendaki. Kursi-Nya meliputi langit dan bumi. Dan Dia tidak merasa berat memelihara keduanya, dan Dia Mahatinggi, Mahabesar."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ruqyah",
+   "title": "Ayat-ayat Ruqyah",
+   "subtitle": "Ayat Al-Qur'an dan doa ruqyah dari hadits",
+   "items": [
+    {
+     "id": "al-fatihah",
+     "category": "ruqyah",
+     "title": "Al-Fatihah",
+     "when": null,
+     "source": "QS. Al-Fatihah",
+     "note": null,
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "Al-Fatihah: 1",
+       "number": 1,
+       "numberAr": "١",
+       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+       "latin": "Bismillāhir-rahmānir-rahīm.",
+       "meaning": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+      },
+      {
+       "ref": "Al-Fatihah: 2",
+       "number": 2,
+       "numberAr": "٢",
+       "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+       "latin": "Al-hamdu lillāhi rabbil-'ālamīn.",
+       "meaning": "Segala puji bagi Allah, Tuhan seluruh alam,"
+      },
+      {
+       "ref": "Al-Fatihah: 3",
+       "number": 3,
+       "numberAr": "٣",
+       "arabic": "الرَّحْمَٰنِ الرَّحِيمِ",
+       "latin": "Ar-rahmānir-rahīm.",
+       "meaning": "Yang Maha Pengasih, Maha Penyayang,"
+      },
+      {
+       "ref": "Al-Fatihah: 4",
+       "number": 4,
+       "numberAr": "٤",
+       "arabic": "مَالِكِ يَوْمِ الدِّينِ",
+       "latin": "Māliki yaumid-dīn.",
+       "meaning": "Pemilik hari pembalasan."
+      },
+      {
+       "ref": "Al-Fatihah: 5",
+       "number": 5,
+       "numberAr": "٥",
+       "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+       "latin": "Iyyāka na'budu wa iyyāka nasta'īn.",
+       "meaning": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan."
+      },
+      {
+       "ref": "Al-Fatihah: 6",
+       "number": 6,
+       "numberAr": "٦",
+       "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+       "latin": "Ihdinash-shirāthal-mustaqīm.",
+       "meaning": "Tunjukilah kami jalan yang lurus,"
+      },
+      {
+       "ref": "Al-Fatihah: 7",
+       "number": 7,
+       "numberAr": "٧",
+       "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+       "latin": "Shirāthal-ladzīna an'amta 'alaihim, ghairil-maghdhūbi 'alaihim wa ladh-dhāllīn.",
+       "meaning": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat."
+      }
+     ]
+    },
+    {
+     "id": "baqarah-1-5",
+     "category": "ruqyah",
+     "title": "Al-Baqarah: 1–5",
+     "when": null,
+     "source": "QS. Al-Baqarah: 1–5",
+     "note": null,
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "Al-Baqarah: 1",
+       "number": 1,
+       "numberAr": "١",
+       "arabic": "الم",
+       "latin": null,
+       "meaning": "Alif Lam Mim."
+      },
+      {
+       "ref": "Al-Baqarah: 2",
+       "number": 2,
+       "numberAr": "٢",
+       "arabic": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
+       "latin": null,
+       "meaning": "Kitab (Al-Qur'an) ini tidak ada keraguan padanya; petunjuk bagi mereka yang bertakwa,"
+      },
+      {
+       "ref": "Al-Baqarah: 3",
+       "number": 3,
+       "numberAr": "٣",
+       "arabic": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
+       "latin": null,
+       "meaning": "(yaitu) mereka yang beriman kepada yang gaib, melaksanakan salat, dan menginfakkan sebagian rezeki yang Kami berikan kepada mereka,"
+      },
+      {
+       "ref": "Al-Baqarah: 4",
+       "number": 4,
+       "numberAr": "٤",
+       "arabic": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ",
+       "latin": null,
+       "meaning": "dan mereka yang beriman kepada (Al-Qur'an) yang diturunkan kepadamu (Muhammad) dan (kitab-kitab) yang telah diturunkan sebelum engkau, dan mereka yakin akan adanya akhirat."
+      },
+      {
+       "ref": "Al-Baqarah: 5",
+       "number": 5,
+       "numberAr": "٥",
+       "arabic": "أُولَٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+       "latin": null,
+       "meaning": "Merekalah yang mendapat petunjuk dari Tuhannya, dan mereka itulah orang-orang yang beruntung."
+      }
+     ]
+    },
+    {
+     "id": "baqarah-102",
+     "category": "ruqyah",
+     "title": "Al-Baqarah: 102",
+     "when": null,
+     "source": "QS. Al-Baqarah: 102",
+     "note": null,
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "Al-Baqarah: 102",
+       "number": 102,
+       "numberAr": "١٠٢",
+       "arabic": "وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ ۖ وَمَا كَفَرَ سُلَيْمَانُ وَلَٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ وَمَا أُنزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَزَوْجِهِ ۚ وَمَا هُم بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا لَمَنِ اشْتَرَاهُ مَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ ۚ وَلَبِئْسَ مَا شَرَوْا بِهِ أَنفُسَهُمْ ۚ لَوْ كَانُوا يَعْلَمُونَ",
+       "latin": null,
+       "meaning": "Dan mereka mengikuti apa yang dibaca oleh setan-setan pada masa kerajaan Sulaiman. Sulaiman itu tidak kafir tetapi setan-setan itulah yang kafir, mereka mengajarkan sihir kepada manusia dan apa yang diturunkan kepada dua malaikat di negeri Babilonia yaitu Harut dan Marut. Padahal keduanya tidak mengajarkan sesuatu kepada seseorang sebelum mengatakan, “Sesungguhnya kami hanyalah cobaan (bagimu), sebab itu janganlah kafir.” Maka mereka mempelajari dari keduanya (malaikat itu) apa yang (dapat) memisahkan antara seorang (suami) dengan istrinya. Mereka tidak akan dapat mencelakakan seseorang dengan sihirnya kecuali dengan izin Allah. Mereka mempelajari sesuatu yang mencelakakan, dan tidak memberi manfaat kepada mereka. Dan sungguh, mereka sudah tahu, barangsiapa membeli (menggunakan sihir) itu, niscaya tidak akan mendapat keuntungan di akhirat. Dan sungguh, sangatlah buruk perbuatan mereka yang menjual dirinya dengan sihir, sekiranya mereka tahu."
+      }
+     ]
+    },
+    {
+     "id": "baqarah-163-164",
+     "category": "ruqyah",
+     "title": "Al-Baqarah: 163–164",
+     "when": null,
+     "source": "QS. Al-Baqarah: 163–164",
+     "note": null,
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "Al-Baqarah: 163",
+       "number": 163,
+       "numberAr": "١٦٣",
+       "arabic": "وَإِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ ۖ لَّا إِلَٰهَ إِلَّا هُوَ الرَّحْمَٰنُ الرَّحِيمُ",
+       "latin": null,
+       "meaning": "Dan Tuhan kamu adalah Tuhan Yang Maha Esa, tidak ada tuhan selain Dia, Yang Maha Pengasih, Maha Penyayang."
+      },
+      {
+       "ref": "Al-Baqarah: 164",
+       "number": 164,
+       "numberAr": "١٦٤",
+       "arabic": "إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ وَالْفُلْكِ الَّتِي تَجْرِي فِي الْبَحْرِ بِمَا يَنفَعُ النَّاسَ وَمَا أَنزَلَ اللَّهُ مِنَ السَّمَاءِ مِن مَّاءٍ فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَابَّةٍ وَتَصْرِيفِ الرِّيَاحِ وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَاءِ وَالْأَرْضِ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ",
+       "latin": null,
+       "meaning": "Sesungguhnya pada penciptaan langit dan bumi, pergantian malam dan siang, kapal yang berlayar di laut dengan (muatan) yang bermanfaat bagi manusia, apa yang diturunkan Allah dari langit berupa air, lalu dengan itu dihidupkan-Nya bumi setelah mati (kering), dan Dia tebarkan di dalamnya bermacam-macam binatang, dan perkisaran angin dan awan yang dikendalikan antara langit dan bumi, (semua itu) sungguh, merupakan tanda-tanda (kebesaran Allah) bagi orang-orang yang mengerti."
+      }
+     ]
+    },
+    {
+     "id": "baqarah-255-257",
+     "category": "ruqyah",
+     "title": "Al-Baqarah: 255–257 (Ayat Kursi)",
+     "when": null,
+     "source": "QS. Al-Baqarah: 255–257 (Ayat Kursi)",
+     "note": null,
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "Al-Baqarah: 255",
+       "number": 255,
+       "numberAr": "٢٥٥",
+       "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+       "latin": "Allāhu lā ilāha illā huwal-hayyul-qayyūm, lā ta'khudzuhū sinatuw wa lā naum, lahū mā fis-samāwāti wa mā fil-ardh, man dzal-ladzī yasyfa'u 'indahū illā bi'idznih, ya'lamu mā baina aidīhim wa mā khalfahum, wa lā yuhīthūna bisyai'im min 'ilmihī illā bimā syā', wasi'a kursiyyuhus-samāwāti wal-ardh, wa lā ya'ūduhū hifzhuhumā, wa huwal-'aliyyul-'azhīm.",
+       "meaning": "Allah, tidak ada tuhan selain Dia. Yang Mahahidup, Yang terus menerus mengurus (makhluk-Nya), tidak mengantuk dan tidak tidur. Milik-Nya apa yang ada di langit dan apa yang ada di bumi. Tidak ada yang dapat memberi syafaat di sisi-Nya tanpa izin-Nya. Dia mengetahui apa yang di hadapan mereka dan apa yang di belakang mereka, dan mereka tidak mengetahui sesuatu apa pun tentang ilmu-Nya melainkan apa yang Dia kehendaki. Kursi-Nya meliputi langit dan bumi. Dan Dia tidak merasa berat memelihara keduanya, dan Dia Mahatinggi, Mahabesar."
+      },
+      {
+       "ref": "Al-Baqarah: 256",
+       "number": 256,
+       "numberAr": "٢٥٦",
+       "arabic": "لَا إِكْرَاهَ فِي الدِّينِ ۖ قَد تَّبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ ۚ فَمَن يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِن بِاللَّهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ لَا انفِصَامَ لَهَا ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
+       "latin": null,
+       "meaning": "Tidak ada paksaan dalam (menganut) agama (Islam), sesungguhnya telah jelas (perbedaan) antara jalan yang benar dengan jalan yang sesat. Barang siapa ingkar kepada Tagut dan beriman kepada Allah, maka sungguh, dia telah berpegang (teguh) pada tali yang sangat kuat yang tidak akan putus. Allah Maha Mendengar, Maha Mengetahui."
+      },
+      {
+       "ref": "Al-Baqarah: 257",
+       "number": 257,
+       "numberAr": "٢٥٧",
+       "arabic": "اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُم مِّنَ الظُّلُمَاتِ إِلَى النُّورِ ۖ وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ يُخْرِجُونَهُم مِّنَ النُّورِ إِلَى الظُّلُمَاتِ ۗ أُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+       "latin": null,
+       "meaning": "Allah pelindung orang yang beriman. Dia mengeluarkan mereka dari kegelapan kepada cahaya (iman). Dan orang-orang yang kafir, pelindung-pelindungnya adalah setan, yang mengeluarkan mereka dari cahaya kepada kegelapan. Mereka adalah penghuni neraka. Mereka kekal di dalamnya."
+      }
+     ]
+    },
+    {
+     "id": "baqarah-285-286",
+     "category": "ruqyah",
+     "title": "Al-Baqarah: 285–286",
+     "when": null,
+     "source": "QS. Al-Baqarah: 285–286",
+     "note": null,
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "Al-Baqarah: 285",
+       "number": 285,
+       "numberAr": "٢٨٥",
+       "arabic": "آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِ ۚ وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ",
+       "latin": "Āmanar-rasūlu bimā unzila ilaihi mir rabbihī wal-mu'minūn, kullun āmana billāhi wa malā'ikatihī wa kutubihī wa rusulih, lā nufarriqu baina ahadim mir rusulih, wa qālū sami'nā wa atha'nā ghufrānaka rabbanā wa ilaikal-mashīr.",
+       "meaning": "Rasul (Muhammad) beriman kepada apa yang diturunkan kepadanya (Al-Qur'an) dari Tuhannya, demikian pula orang-orang yang beriman. Semua beriman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya dan rasul-rasul-Nya. (Mereka berkata), “Kami tidak membeda-bedakan seorang pun dari rasul-rasul-Nya.” Dan mereka berkata, “Kami dengar dan kami taat. Ampunilah kami Ya Tuhan kami, dan kepada-Mu tempat (kami) kembali.”"
+      },
+      {
+       "ref": "Al-Baqarah: 286",
+       "number": 286,
+       "numberAr": "٢٨٦",
+       "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنتَ مَوْلَانَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+       "latin": "Lā yukallifullāhu nafsan illā wus'ahā, lahā mā kasabat wa 'alaihā maktasabat, rabbanā lā tu'ākhidznā in nasīnā au akhtha'nā, rabbanā wa lā tahmil 'alainā ishran kamā hamaltahū 'alal-ladzīna min qablinā, rabbanā wa lā tuhammilnā mā lā thāqata lanā bih, wa'fu 'annā, waghfir lanā, warhamnā, anta maulānā fanshurnā 'alal-qaumil-kāfirīn.",
+       "meaning": "Allah tidak membebani seseorang melainkan sesuai dengan kesanggupannya. Dia mendapat (pahala) dari (kebajikan) yang dikerjakannya dan dia mendapat (siksa) dari (kejahatan) yang diperbuatnya. (Mereka berdoa), “Ya Tuhan kami, janganlah Engkau hukum kami jika kami lupa atau kami melakukan kesalahan. Ya Tuhan kami, janganlah Engkau bebani kami dengan beban yang berat sebagaimana Engkau bebankan kepada orang-orang sebelum kami. Ya Tuhan kami, janganlah Engkau pikulkan kepada kami apa yang tidak sanggup kami memikulnya. Maafkanlah kami, ampunilah kami, dan rahmatilah kami. Engkaulah pelindung kami, maka tolonglah kami menghadapi orang-orang kafir.”"
+      }
+     ]
+    },
+    {
+     "id": "ali-imran-18-19",
+     "category": "ruqyah",
+     "title": "Ali 'Imran: 18–19",
+     "when": null,
+     "source": "QS. Ali 'Imran: 18–19",
+     "note": null,
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "Ali 'Imran: 18",
+       "number": 18,
+       "numberAr": "١٨",
+       "arabic": "شَهِدَ اللَّهُ أَنَّهُ لَا إِلَٰهَ إِلَّا هُوَ وَالْمَلَائِكَةُ وَأُولُو الْعِلْمِ قَائِمًا بِالْقِسْطِ ۚ لَا إِلَٰهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ",
+       "latin": null,
+       "meaning": "Allah menyatakan bahwa tidak ada tuhan selain Dia; (demikian pula) para malaikat dan orang berilmu yang menegakkan keadilan, tidak ada tuhan selain Dia, Yang Mahaperkasa, Maha-bijaksana."
+      },
+      {
+       "ref": "Ali 'Imran: 19",
+       "number": 19,
+       "numberAr": "١٩",
+       "arabic": "إِنَّ الدِّينَ عِندَ اللَّهِ الْإِسْلَامُ ۗ وَمَا اخْتَلَفَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ ۗ وَمَن يَكْفُرْ بِآيَاتِ اللَّهِ فَإِنَّ اللَّهَ سَرِيعُ الْحِسَابِ",
+       "latin": null,
+       "meaning": "Sesungguhnya agama di sisi Allah ialah Islam. Tidaklah berselisih orang-orang yang telah diberi Kitab kecuali setelah mereka memperoleh ilmu, karena kedengkian di antara mereka. Barangsiapa ingkar terhadap ayat-ayat Allah, maka sungguh, Allah sangat cepat perhitungan-Nya."
+      }
+     ]
+    },
+    {
+     "id": "araf-54-56",
+     "category": "ruqyah",
+     "title": "Al-A'raf: 54–56",
+     "when": null,
+     "source": "QS. Al-A'raf: 54–56",
+     "note": null,
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "Al-A'raf: 54",
+       "number": 54,
+       "numberAr": "٥٤",
+       "arabic": "إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ النَّهَارَ يَطْلُبُهُ حَثِيثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ مُسَخَّرَاتٍ بِأَمْرِهِ ۗ أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ۗ تَبَارَكَ اللَّهُ رَبُّ الْعَالَمِينَ",
+       "latin": null,
+       "meaning": "Sungguh, Tuhanmu (adalah) Allah yang menciptakan langit dan bumi dalam enam masa, lalu Dia bersemayam di atas ‘Arsy. Dia menutupkan malam kepada siang yang mengikutinya dengan cepat. (Dia ciptakan) matahari, bulan dan bintang-bintang tunduk kepada perintah-Nya. Ingatlah! Segala penciptaan dan urusan menjadi hak-Nya. Mahasuci Allah, Tuhan seluruh alam."
+      },
+      {
+       "ref": "Al-A'raf: 55",
+       "number": 55,
+       "numberAr": "٥٥",
+       "arabic": "ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ إِنَّهُ لَا يُحِبُّ الْمُعْتَدِينَ",
+       "latin": null,
+       "meaning": "Berdoalah kepada Tuhanmu dengan rendah hati dan suara yang lembut. Sungguh, Dia tidak menyukai orang-orang yang melampaui batas."
+      },
+      {
+       "ref": "Al-A'raf: 56",
+       "number": 56,
+       "numberAr": "٥٦",
+       "arabic": "وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا ۚ إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ",
+       "latin": null,
+       "meaning": "Dan janganlah kamu berbuat kerusakan di bumi setelah (diciptakan) dengan baik. Berdoalah kepada-Nya dengan rasa takut dan penuh harap. Sesungguhnya rahmat Allah sangat dekat kepada orang yang berbuat kebaikan."
+      }
+     ]
+    },
+    {
+     "id": "araf-117-122",
+     "category": "ruqyah",
+     "title": "Al-A'raf: 117–122",
+     "when": null,
+     "source": "QS. Al-A'raf: 117–122",
+     "note": null,
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "Al-A'raf: 117",
+       "number": 117,
+       "numberAr": "١١٧",
+       "arabic": "وَأَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنْ أَلْقِ عَصَاكَ ۖ فَإِذَا هِيَ تَلْقَفُ مَا يَأْفِكُونَ",
+       "latin": null,
+       "meaning": "Dan Kami wahyukan kepada Musa, “Lemparkanlah tongkatmu!” Maka tiba-tiba ia menelan (habis) segala kepalsuan mereka."
+      },
+      {
+       "ref": "Al-A'raf: 118",
+       "number": 118,
+       "numberAr": "١١٨",
+       "arabic": "فَوَقَعَ الْحَقُّ وَبَطَلَ مَا كَانُوا يَعْمَلُونَ",
+       "latin": null,
+       "meaning": "Maka terbuktilah kebenaran, dan segala yang mereka kerjakan jadi sia-sia."
+      },
+      {
+       "ref": "Al-A'raf: 119",
+       "number": 119,
+       "numberAr": "١١٩",
+       "arabic": "فَغُلِبُوا هُنَالِكَ وَانقَلَبُوا صَاغِرِينَ",
+       "latin": null,
+       "meaning": "Maka mereka dikalahkan di tempat itu dan jadilah mereka orang-orang yang hina."
+      },
+      {
+       "ref": "Al-A'raf: 120",
+       "number": 120,
+       "numberAr": "١٢٠",
+       "arabic": "وَأُلْقِيَ السَّحَرَةُ سَاجِدِينَ",
+       "latin": null,
+       "meaning": "Dan para pesihir itu serta merta menjatuhkan diri dengan bersujud."
+      },
+      {
+       "ref": "Al-A'raf: 121",
+       "number": 121,
+       "numberAr": "١٢١",
+       "arabic": "قَالُوا آمَنَّا بِرَبِّ الْعَالَمِينَ",
+       "latin": null,
+       "meaning": "Mereka berkata, “Kami beriman kepada Tuhan seluruh alam,"
+      },
+      {
+       "ref": "Al-A'raf: 122",
+       "number": 122,
+       "numberAr": "١٢٢",
+       "arabic": "رَبِّ مُوسَىٰ وَهَارُونَ",
+       "latin": null,
+       "meaning": "(yaitu) Tuhannya Musa dan Harun.”"
+      }
+     ]
+    },
+    {
+     "id": "yunus-81-82",
+     "category": "ruqyah",
+     "title": "Yunus: 81–82",
+     "when": null,
+     "source": "QS. Yunus: 81–82",
+     "note": null,
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "Yunus: 81",
+       "number": 81,
+       "numberAr": "٨١",
+       "arabic": "فَلَمَّا أَلْقَوْا قَالَ مُوسَىٰ مَا جِئْتُم بِهِ السِّحْرُ ۖ إِنَّ اللَّهَ سَيُبْطِلُهُ ۖ إِنَّ اللَّهَ لَا يُصْلِحُ عَمَلَ الْمُفْسِدِينَ",
+       "latin": null,
+       "meaning": "Setelah mereka melemparkan, Musa berkata, “Apa yang kamu lakukan itu, itulah sihir, sesungguhnya Allah akan menampakkan kepalsuan sihir itu. Sungguh, Allah tidak akan membiarkan terus berlangsungnya pekerjaan orang yang berbuat kerusakan.”"
+      },
+      {
+       "ref": "Yunus: 82",
+       "number": 82,
+       "numberAr": "٨٢",
+       "arabic": "وَيُحِقُّ اللَّهُ الْحَقَّ بِكَلِمَاتِهِ وَلَوْ كَرِهَ الْمُجْرِمُونَ",
+       "latin": null,
+       "meaning": "Dan Allah akan mengukuhkan yang benar dengan ketetapan-Nya, walaupun orang-orang yang berbuat dosa tidak menyukainya."
+      }
+     ]
+    },
+    {
+     "id": "taha-69",
+     "category": "ruqyah",
+     "title": "Taha: 69",
+     "when": null,
+     "source": "QS. Taha: 69",
+     "note": null,
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "Taha: 69",
+       "number": 69,
+       "numberAr": "٦٩",
+       "arabic": "وَأَلْقِ مَا فِي يَمِينِكَ تَلْقَفْ مَا صَنَعُوا ۖ إِنَّمَا صَنَعُوا كَيْدُ سَاحِرٍ ۖ وَلَا يُفْلِحُ السَّاحِرُ حَيْثُ أَتَىٰ",
+       "latin": null,
+       "meaning": "Dan lemparkan apa yang ada di tangan kananmu, niscaya ia akan menelan apa yang mereka buat. Apa yang mereka buat itu hanyalah tipu daya pesihir (belaka). Dan tidak akan menang pesihir itu, dari mana pun ia datang.”"
+      }
+     ]
+    },
+    {
+     "id": "muminun-115-118",
+     "category": "ruqyah",
+     "title": "Al-Mu'minun: 115–118",
+     "when": null,
+     "source": "QS. Al-Mu'minun: 115–118",
+     "note": null,
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "Al-Mu'minun: 115",
+       "number": 115,
+       "numberAr": "١١٥",
+       "arabic": "أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ",
+       "latin": null,
+       "meaning": "Maka apakah kamu mengira, bahwa Kami menciptakan kamu main-main (tanpa ada maksud) dan bahwa kamu tidak akan dikembalikan kepada Kami?"
+      },
+      {
+       "ref": "Al-Mu'minun: 116",
+       "number": 116,
+       "numberAr": "١١٦",
+       "arabic": "فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ ۖ لَا إِلَٰهَ إِلَّا هُوَ رَبُّ الْعَرْشِ الْكَرِيمِ",
+       "latin": null,
+       "meaning": "Maka Mahatinggi Allah, Raja yang sebenarnya; tidak ada tuhan (yang berhak disembah) selain Dia, Tuhan (yang memiliki) ‘Arsy yang mulia."
+      },
+      {
+       "ref": "Al-Mu'minun: 117",
+       "number": 117,
+       "numberAr": "١١٧",
+       "arabic": "وَمَن يَدْعُ مَعَ اللَّهِ إِلَٰهًا آخَرَ لَا بُرْهَانَ لَهُ بِهِ فَإِنَّمَا حِسَابُهُ عِندَ رَبِّهِ ۚ إِنَّهُ لَا يُفْلِحُ الْكَافِرُونَ",
+       "latin": null,
+       "meaning": "Dan barang siapa menyembah tuhan yang lain selain Allah, padahal tidak ada suatu bukti pun baginya tentang itu, maka perhitungannya hanya pada Tuhannya. Sesungguhnya orang-orang kafir itu tidak akan beruntung."
+      },
+      {
+       "ref": "Al-Mu'minun: 118",
+       "number": 118,
+       "numberAr": "١١٨",
+       "arabic": "وَقُل رَّبِّ اغْفِرْ وَارْحَمْ وَأَنتَ خَيْرُ الرَّاحِمِينَ",
+       "latin": null,
+       "meaning": "Dan katakanlah (Muhammad), “Ya Tuhanku, berilah ampunan dan (berilah) rahmat, Engkaulah pemberi rahmat yang terbaik.”"
+      }
+     ]
+    },
+    {
+     "id": "saffat-1-10",
+     "category": "ruqyah",
+     "title": "As-Saffat: 1–10",
+     "when": null,
+     "source": "QS. As-Saffat: 1–10",
+     "note": null,
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "As-Saffat: 1",
+       "number": 1,
+       "numberAr": "١",
+       "arabic": "وَالصَّافَّاتِ صَفًّا",
+       "latin": null,
+       "meaning": "Demi (rombongan malaikat) yang berbaris bersaf-saf,"
+      },
+      {
+       "ref": "As-Saffat: 2",
+       "number": 2,
+       "numberAr": "٢",
+       "arabic": "فَالزَّاجِرَاتِ زَجْرًا",
+       "latin": null,
+       "meaning": "demi (rombongan) yang mencegah dengan sungguh-sungguh,"
+      },
+      {
+       "ref": "As-Saffat: 3",
+       "number": 3,
+       "numberAr": "٣",
+       "arabic": "فَالتَّالِيَاتِ ذِكْرًا",
+       "latin": null,
+       "meaning": "demi (rombongan) yang membacakan peringatan,"
+      },
+      {
+       "ref": "As-Saffat: 4",
+       "number": 4,
+       "numberAr": "٤",
+       "arabic": "إِنَّ إِلَٰهَكُمْ لَوَاحِدٌ",
+       "latin": null,
+       "meaning": "sungguh, Tuhanmu benar-benar Esa."
+      },
+      {
+       "ref": "As-Saffat: 5",
+       "number": 5,
+       "numberAr": "٥",
+       "arabic": "رَّبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ الْمَشَارِقِ",
+       "latin": null,
+       "meaning": "Tuhan langit dan bumi dan apa yang berada di antara keduanya dan Tuhan tempat-tempat terbitnya matahari."
+      },
+      {
+       "ref": "As-Saffat: 6",
+       "number": 6,
+       "numberAr": "٦",
+       "arabic": "إِنَّا زَيَّنَّا السَّمَاءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ",
+       "latin": null,
+       "meaning": "Sesungguhnya Kami telah menghias langit dunia (yang terdekat), dengan hiasan bintang-bintang."
+      },
+      {
+       "ref": "As-Saffat: 7",
+       "number": 7,
+       "numberAr": "٧",
+       "arabic": "وَحِفْظًا مِّن كُلِّ شَيْطَانٍ مَّارِدٍ",
+       "latin": null,
+       "meaning": "Dan (Kami) telah menjaganya dari setiap setan yang durhaka,"
+      },
+      {
+       "ref": "As-Saffat: 8",
+       "number": 8,
+       "numberAr": "٨",
+       "arabic": "لَّا يَسَّمَّعُونَ إِلَى الْمَلَإِ الْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ",
+       "latin": null,
+       "meaning": "mereka (setan-setan itu) tidak dapat mendengar (pembicaraan) para malaikat dan mereka dilempari dari segala penjuru,"
+      },
+      {
+       "ref": "As-Saffat: 9",
+       "number": 9,
+       "numberAr": "٩",
+       "arabic": "دُحُورًا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ",
+       "latin": null,
+       "meaning": "untuk mengusir mereka dan mereka akan mendapat azab yang kekal,"
+      },
+      {
+       "ref": "As-Saffat: 10",
+       "number": 10,
+       "numberAr": "١٠",
+       "arabic": "إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ",
+       "latin": null,
+       "meaning": "kecuali (setan) yang mencuri (pembicaraan); maka ia dikejar oleh bintang yang menyala."
+      }
+     ]
+    },
+    {
+     "id": "ahqaf-29-32",
+     "category": "ruqyah",
+     "title": "Al-Ahqaf: 29–32",
+     "when": null,
+     "source": "QS. Al-Ahqaf: 29–32",
+     "note": null,
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "Al-Ahqaf: 29",
+       "number": 29,
+       "numberAr": "٢٩",
+       "arabic": "وَإِذْ صَرَفْنَا إِلَيْكَ نَفَرًا مِّنَ الْجِنِّ يَسْتَمِعُونَ الْقُرْآنَ فَلَمَّا حَضَرُوهُ قَالُوا أَنصِتُوا ۖ فَلَمَّا قُضِيَ وَلَّوْا إِلَىٰ قَوْمِهِم مُّنذِرِينَ",
+       "latin": null,
+       "meaning": "Dan (ingatlah) ketika Kami hadapkan kepadamu (Muhammad) serombongan jin yang mendengarkan (bacaan) Al-Qur'an, maka ketika mereka menghadiri (pembacaan)nya mereka berkata, “Diamlah kamu (untuk mendengarkannya)!” Maka ketika telah selesai mereka kembali kepada kaumnya (untuk) memberi peringatan."
+      },
+      {
+       "ref": "Al-Ahqaf: 30",
+       "number": 30,
+       "numberAr": "٣٠",
+       "arabic": "قَالُوا يَا قَوْمَنَا إِنَّا سَمِعْنَا كِتَابًا أُنزِلَ مِن بَعْدِ مُوسَىٰ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ يَهْدِي إِلَى الْحَقِّ وَإِلَىٰ طَرِيقٍ مُّسْتَقِيمٍ",
+       "latin": null,
+       "meaning": "Mereka berkata, “Wahai kaum kami! Sungguh, kami telah mendengarkan Kitab (Al-Qur'an) yang diturunkan setelah Musa, membenarkan (kitab-kitab) yang datang sebelumnya, membimbing kepada kebenaran dan kepada jalan yang lurus."
+      },
+      {
+       "ref": "Al-Ahqaf: 31",
+       "number": 31,
+       "numberAr": "٣١",
+       "arabic": "يَا قَوْمَنَا أَجِيبُوا دَاعِيَ اللَّهِ وَآمِنُوا بِهِ يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُجِرْكُم مِّنْ عَذَابٍ أَلِيمٍ",
+       "latin": null,
+       "meaning": "Wahai kaum kami! Terimalah (seruan) orang (Muhammad) yang menyeru kepada Allah. Dan berimanlah kepada-Nya, niscaya Dia akan mengampuni dosa-dosamu dan melepaskan kamu dari azab yang pedih."
+      },
+      {
+       "ref": "Al-Ahqaf: 32",
+       "number": 32,
+       "numberAr": "٣٢",
+       "arabic": "وَمَن لَّا يُجِبْ دَاعِيَ اللَّهِ فَلَيْسَ بِمُعْجِزٍ فِي الْأَرْضِ وَلَيْسَ لَهُ مِن دُونِهِ أَوْلِيَاءُ ۚ أُولَٰئِكَ فِي ضَلَالٍ مُّبِينٍ",
+       "latin": null,
+       "meaning": "Dan barang siapa tidak menerima (seruan) orang yang menyeru kepada Allah (Muhammad) maka dia tidak akan dapat melepaskan diri dari siksa Allah di bumi padahal tidak ada pelindung baginya selain Allah. Mereka berada dalam kesesatan yang nyata.”"
+      }
+     ]
+    },
+    {
+     "id": "rahman-33-35",
+     "category": "ruqyah",
+     "title": "Ar-Rahman: 33–35",
+     "when": null,
+     "source": "QS. Ar-Rahman: 33–35",
+     "note": null,
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "Ar-Rahman: 33",
+       "number": 33,
+       "numberAr": "٣٣",
+       "arabic": "يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ إِنِ اسْتَطَعْتُمْ أَن تَنفُذُوا مِنْ أَقْطَارِ السَّمَاوَاتِ وَالْأَرْضِ فَانفُذُوا ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَانٍ",
+       "latin": null,
+       "meaning": "Wahai golongan jin dan manusia! Jika kamu sanggup menembus (melintasi) penjuru langit dan bumi, maka tembuslah. Kamu tidak akan mampu menembusnya kecuali dengan kekuatan (dari Allah)."
+      },
+      {
+       "ref": "Ar-Rahman: 34",
+       "number": 34,
+       "numberAr": "٣٤",
+       "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+       "latin": null,
+       "meaning": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+      },
+      {
+       "ref": "Ar-Rahman: 35",
+       "number": 35,
+       "numberAr": "٣٥",
+       "arabic": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ",
+       "latin": null,
+       "meaning": "Kepada kamu (jin dan manusia), akan dikirim nyala api dan cairan tembaga (panas) sehingga kamu tidak dapat menyelamatkan diri (darinya)."
+      }
+     ]
+    },
+    {
+     "id": "hasyr-21-24",
+     "category": "ruqyah",
+     "title": "Al-Hasyr: 21–24",
+     "when": null,
+     "source": "QS. Al-Hasyr: 21–24",
+     "note": null,
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "Al-Hasyr: 21",
+       "number": 21,
+       "numberAr": "٢١",
+       "arabic": "لَوْ أَنزَلْنَا هَٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُ خَاشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ اللَّهِ ۚ وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ",
+       "latin": null,
+       "meaning": "Sekiranya Kami turunkan Al-Qur'an ini kepada sebuah gunung, pasti kamu akan melihatnya tunduk terpecah belah disebabkan takut kepada Allah. Dan perumpamaan-perumpamaan itu Kami buat untuk manusia agar mereka berpikir."
+      },
+      {
+       "ref": "Al-Hasyr: 22",
+       "number": 22,
+       "numberAr": "٢٢",
+       "arabic": "هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ ۖ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۖ هُوَ الرَّحْمَٰنُ الرَّحِيمُ",
+       "latin": null,
+       "meaning": "Dialah Allah tidak ada tuhan selain Dia. Yang Mengetahui yang gaib dan yang nyata, Dialah Yang Maha Pengasih, Maha Penyayang."
+      },
+      {
+       "ref": "Al-Hasyr: 23",
+       "number": 23,
+       "numberAr": "٢٣",
+       "arabic": "هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ ۚ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ",
+       "latin": null,
+       "meaning": "Dialah Allah tidak ada tuhan selain Dia. Maharaja, Yang Mahasuci, Yang Mahasejahtera, Yang Menjaga Keamanan, Pemelihara Keselamatan, Yang Mahaperkasa, Yang Mahakuasa, Yang Memiliki Segala Keagungan, Mahasuci Allah dari apa yang mereka persekutukan."
+      },
+      {
+       "ref": "Al-Hasyr: 24",
+       "number": 24,
+       "numberAr": "٢٤",
+       "arabic": "هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+       "latin": null,
+       "meaning": "Dialah Allah Yang Menciptakan, Yang Mengadakan, Yang Membentuk Rupa, Dia memiliki nama-nama yang indah. Apa yang di langit dan di bumi bertasbih kepada-Nya. Dan Dialah Yang Mahaperkasa, Mahabijaksana."
+      }
+     ]
+    },
+    {
+     "id": "jin-1-9",
+     "category": "ruqyah",
+     "title": "Al-Jin: 1–9",
+     "when": null,
+     "source": "QS. Al-Jin: 1–9",
+     "note": null,
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "Al-Jinn: 1",
+       "number": 1,
+       "numberAr": "١",
+       "arabic": "قُلْ أُوحِيَ إِلَيَّ أَنَّهُ اسْتَمَعَ نَفَرٌ مِّنَ الْجِنِّ فَقَالُوا إِنَّا سَمِعْنَا قُرْآنًا عَجَبًا",
+       "latin": null,
+       "meaning": "Katakanlah (Muhammad), “Telah diwahyukan kepadaku bahwa sekumpulan jin telah mendengarkan (bacaan),” lalu mereka berkata, “Kami telah mendengarkan bacaan yang menakjubkan (Al-Qur'an),"
+      },
+      {
+       "ref": "Al-Jinn: 2",
+       "number": 2,
+       "numberAr": "٢",
+       "arabic": "يَهْدِي إِلَى الرُّشْدِ فَآمَنَّا بِهِ ۖ وَلَن نُّشْرِكَ بِرَبِّنَا أَحَدًا",
+       "latin": null,
+       "meaning": "(yang) memberi petunjuk kepada jalan yang benar, lalu kami beriman kepadanya. Dan kami sekali-kali tidak akan mempersekutukan sesuatu pun dengan Tuhan kami,"
+      },
+      {
+       "ref": "Al-Jinn: 3",
+       "number": 3,
+       "numberAr": "٣",
+       "arabic": "وَأَنَّهُ تَعَالَىٰ جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَلَا وَلَدًا",
+       "latin": null,
+       "meaning": "dan sesungguhnya Mahatinggi keagungan Tuhan kami, Dia tidak beristri dan tidak beranak.”"
+      },
+      {
+       "ref": "Al-Jinn: 4",
+       "number": 4,
+       "numberAr": "٤",
+       "arabic": "وَأَنَّهُ كَانَ يَقُولُ سَفِيهُنَا عَلَى اللَّهِ شَطَطًا",
+       "latin": null,
+       "meaning": "Dan sesungguhnya orang yang bodoh di antara kami dahulu selalu mengucapkan (perkataan) yang melampaui batas terhadap Allah,"
+      },
+      {
+       "ref": "Al-Jinn: 5",
+       "number": 5,
+       "numberAr": "٥",
+       "arabic": "وَأَنَّا ظَنَنَّا أَن لَّن تَقُولَ الْإِنسُ وَالْجِنُّ عَلَى اللَّهِ كَذِبًا",
+       "latin": null,
+       "meaning": "dan sesungguhnya kami mengira, bahwa manusia dan jin itu tidak akan mengatakan perkataan yang dusta terhadap Allah,"
+      },
+      {
+       "ref": "Al-Jinn: 6",
+       "number": 6,
+       "numberAr": "٦",
+       "arabic": "وَأَنَّهُ كَانَ رِجَالٌ مِّنَ الْإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ الْجِنِّ فَزَادُوهُمْ رَهَقًا",
+       "latin": null,
+       "meaning": "dan sesungguhnya ada beberapa orang laki-laki dari kalangan manusia yang meminta perlindungan kepada beberapa laki-laki dari jin, tetapi mereka (jin) menjadikan mereka (manusia) bertambah sesat."
+      },
+      {
+       "ref": "Al-Jinn: 7",
+       "number": 7,
+       "numberAr": "٧",
+       "arabic": "وَأَنَّهُمْ ظَنُّوا كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ اللَّهُ أَحَدًا",
+       "latin": null,
+       "meaning": "Dan sesungguhnya mereka (jin) mengira seperti kamu (orang musyrik Mekah) yang juga mengira bahwa Allah tidak akan membangkitkan kembali siapa pun (pada hari Kiamat)."
+      },
+      {
+       "ref": "Al-Jinn: 8",
+       "number": 8,
+       "numberAr": "٨",
+       "arabic": "وَأَنَّا لَمَسْنَا السَّمَاءَ فَوَجَدْنَاهَا مُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا",
+       "latin": null,
+       "meaning": "Dan sesungguhnya kami (jin) telah mencoba mengetahui (rahasia) langit, maka kami mendapatinya penuh dengan penjagaan yang kuat dan panah-panah api,"
+      },
+      {
+       "ref": "Al-Jinn: 9",
+       "number": 9,
+       "numberAr": "٩",
+       "arabic": "وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِ ۖ فَمَن يَسْتَمِعِ الْآنَ يَجِدْ لَهُ شِهَابًا رَّصَدًا",
+       "latin": null,
+       "meaning": "dan sesungguhnya kami (jin) dahulu dapat menduduki beberapa tempat di langit itu untuk mencuri dengar (berita-beritanya). Tetapi sekarang siapa (mencoba) mencuri dengar (seperti itu) pasti akan menjumpai panah-panah api yang mengintai (untuk membakarnya)."
+      }
+     ]
+    },
+    {
+     "id": "al-ikhlas",
+     "category": "ruqyah",
+     "title": "Al-Ikhlas",
+     "when": null,
+     "source": "QS. Al-Ikhlas",
+     "note": null,
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "Al-Ikhlas: 1",
+       "number": 1,
+       "numberAr": "١",
+       "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+       "latin": "Qul huwallāhu ahad.",
+       "meaning": "Katakanlah (Muhammad), “Dialah Allah, Yang Maha Esa."
+      },
+      {
+       "ref": "Al-Ikhlas: 2",
+       "number": 2,
+       "numberAr": "٢",
+       "arabic": "اللَّهُ الصَّمَدُ",
+       "latin": "Allāhush-shamad.",
+       "meaning": "Allah tempat meminta segala sesuatu."
+      },
+      {
+       "ref": "Al-Ikhlas: 3",
+       "number": 3,
+       "numberAr": "٣",
+       "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+       "latin": "Lam yalid wa lam yūlad.",
+       "meaning": "(Allah) tidak beranak dan tidak pula diperanakkan."
+      },
+      {
+       "ref": "Al-Ikhlas: 4",
+       "number": 4,
+       "numberAr": "٤",
+       "arabic": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+       "latin": "Wa lam yakul lahū kufuwan ahad.",
+       "meaning": "Dan tidak ada sesuatu yang setara dengan Dia.”"
+      }
+     ]
+    },
+    {
+     "id": "al-falaq",
+     "category": "ruqyah",
+     "title": "Al-Falaq",
+     "when": null,
+     "source": "QS. Al-Falaq",
+     "note": null,
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "Al-Falaq: 1",
+       "number": 1,
+       "numberAr": "١",
+       "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+       "latin": "Qul a'ūdzu birabbil-falaq.",
+       "meaning": "Katakanlah, “Aku berlindung kepada Tuhan yang menguasai subuh (fajar),"
+      },
+      {
+       "ref": "Al-Falaq: 2",
+       "number": 2,
+       "numberAr": "٢",
+       "arabic": "مِن شَرِّ مَا خَلَقَ",
+       "latin": "Min syarri mā khalaq.",
+       "meaning": "dari kejahatan (makhluk yang) Dia ciptakan,"
+      },
+      {
+       "ref": "Al-Falaq: 3",
+       "number": 3,
+       "numberAr": "٣",
+       "arabic": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+       "latin": "Wa min syarri ghāsiqin idzā waqab.",
+       "meaning": "dan dari kejahatan malam apabila telah gelap gulita,"
+      },
+      {
+       "ref": "Al-Falaq: 4",
+       "number": 4,
+       "numberAr": "٤",
+       "arabic": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+       "latin": "Wa min syarrin-naffātsāti fil-'uqad.",
+       "meaning": "dan dari kejahatan (perempuan-perempuan) penyihir yang meniup pada buhul-buhul (talinya),"
+      },
+      {
+       "ref": "Al-Falaq: 5",
+       "number": 5,
+       "numberAr": "٥",
+       "arabic": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+       "latin": "Wa min syarri hāsidin idzā hasad.",
+       "meaning": "dan dari kejahatan orang yang dengki apabila dia dengki.”"
+      }
+     ]
+    },
+    {
+     "id": "an-nas",
+     "category": "ruqyah",
+     "title": "An-Nas",
+     "when": null,
+     "source": "QS. An-Nas",
+     "note": null,
+     "repeat": null,
+     "arabic": null,
+     "latin": null,
+     "meaning": null,
+     "verses": [
+      {
+       "ref": "An-Nas: 1",
+       "number": 1,
+       "numberAr": "١",
+       "arabic": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+       "latin": "Qul a'ūdzu birabbin-nās.",
+       "meaning": "Katakanlah, “Aku berlindung kepada Tuhannya manusia,"
+      },
+      {
+       "ref": "An-Nas: 2",
+       "number": 2,
+       "numberAr": "٢",
+       "arabic": "مَلِكِ النَّاسِ",
+       "latin": "Malikin-nās.",
+       "meaning": "Raja manusia,"
+      },
+      {
+       "ref": "An-Nas: 3",
+       "number": 3,
+       "numberAr": "٣",
+       "arabic": "إِلَٰهِ النَّاسِ",
+       "latin": "Ilāhin-nās.",
+       "meaning": "sembahan manusia,"
+      },
+      {
+       "ref": "An-Nas: 4",
+       "number": 4,
+       "numberAr": "٤",
+       "arabic": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+       "latin": "Min syarril-waswāsil-khannās.",
+       "meaning": "dari kejahatan (bisikan) setan yang bersembunyi,"
+      },
+      {
+       "ref": "An-Nas: 5",
+       "number": 5,
+       "numberAr": "٥",
+       "arabic": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+       "latin": "Alladzī yuwaswisu fī shudūrin-nās.",
+       "meaning": "yang membisikkan (kejahatan) ke dalam dada manusia,"
+      },
+      {
+       "ref": "An-Nas: 6",
+       "number": 6,
+       "numberAr": "٦",
+       "arabic": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+       "latin": "Minal-jinnati wan-nās.",
+       "meaning": "dari (golongan) jin dan manusia.”"
+      }
+     ]
+    },
+    {
+     "id": "ruqyah-rabban-nas",
+     "category": "ruqyah",
+     "title": "Doa ruqyah untuk orang sakit",
+     "when": "Sambil mengusap bagian yang sakit",
+     "source": "HR. Al-Bukhari no. 5743",
+     "note": null,
+     "repeat": null,
+     "arabic": "اللَّهُمَّ رَبَّ النَّاسِ، أَذْهِبِ الْبَأْسَ، اشْفِهِ وَأَنْتَ الشَّافِي، لَا شِفَاءَ إِلَّا شِفَاؤُكَ، شِفَاءً لَا يُغَادِرُ سَقَمًا",
+     "latin": "Allāhumma rabban-nās, adzhibil-ba's, isyfihi wa antasy-syāfī, lā syifā'a illā syifā'uk, syifā'an lā yughādiru saqamā.",
+     "meaning": "Ya Allah, Tuhan manusia, hilangkanlah penyakit ini, sembuhkanlah ia, Engkaulah Yang Maha Menyembuhkan. Tidak ada kesembuhan kecuali kesembuhan dari-Mu, kesembuhan yang tidak meninggalkan penyakit.",
+     "verses": []
+    },
+    {
+     "id": "ruqyah-jibril",
+     "category": "ruqyah",
+     "title": "Ruqyah yang dibacakan Jibril untuk Nabi ﷺ",
+     "when": "Dibacakan kepada orang yang sakit",
+     "source": "HR. Muslim no. 2186",
+     "note": null,
+     "repeat": null,
+     "arabic": "بِاسْمِ اللهِ أَرْقِيكَ، مِنْ كُلِّ شَيْءٍ يُؤْذِيكَ، مِنْ شَرِّ كُلِّ نَفْسٍ أَوْ عَيْنِ حَاسِدٍ، اللهُ يَشْفِيكَ، بِاسْمِ اللهِ أَرْقِيكَ",
+     "latin": "Bismillāhi arqīk, min kulli syai'in yu'dzīk, min syarri kulli nafsin au 'aini hāsid, Allāhu yasyfīk, bismillāhi arqīk.",
+     "meaning": "Dengan nama Allah aku meruqyahmu, dari segala sesuatu yang menyakitimu, dari kejahatan setiap jiwa atau mata orang yang dengki. Semoga Allah menyembuhkanmu. Dengan nama Allah aku meruqyahmu.",
+     "verses": []
+    },
+    {
+     "id": "ruqyah-sakit-sendiri",
+     "category": "ruqyah",
+     "title": "Saat merasakan sakit di tubuh sendiri",
+     "when": "Letakkan tangan di bagian yang sakit",
+     "source": "HR. Muslim no. 2202",
+     "note": null,
+     "repeat": null,
+     "arabic": "بِسْمِ اللهِ (٣×)، أَعُوذُ بِاللهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ (٧×)",
+     "latin": "Bismillāh (3×). A'ūdzu billāhi wa qudratihī min syarri mā ajidu wa uhādzir (7×).",
+     "meaning": "Dengan nama Allah (3×). Aku berlindung kepada Allah dan kekuasaan-Nya dari keburukan yang aku rasakan dan aku khawatirkan (7×).",
+     "verses": []
+    },
+    {
+     "id": "ruqyah-perlindungan-anak",
+     "category": "ruqyah",
+     "title": "Perlindungan dari setan dan 'ain",
+     "when": "Dibacakan untuk diri sendiri atau anak",
+     "source": "HR. Al-Bukhari no. 3371",
+     "note": "Nabi ﷺ membacakannya untuk Hasan dan Husain. Untuk anak, ganti \"a'ūdzu\" menjadi \"u'īdzuka\" (aku memohonkan perlindungan untukmu).",
+     "repeat": null,
+     "arabic": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّةِ، مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
+     "latin": "A'ūdzu bikalimātillāhit-tāmmah, min kulli syaithānin wa hāmmah, wa min kulli 'ainin lāmmah.",
+     "meaning": "Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari setiap setan dan binatang berbisa, serta dari setiap mata yang jahat.",
+     "verses": []
+    }
+   ]
+  }
+ ],
+ "credits": [
+  "Teks Arab Al-Qur'an: Tanzil Project (tanzil.net), disalin tanpa perubahan",
+  "Terjemah Al-Qur'an: Kementerian Agama Republik Indonesia (quran.kemenag.go.id)",
+  "Data ayat melalui github.com/sutanlab/quran-api (MIT)",
+  "Transliterasi latin dan terjemah doa hadits: tim Everest — mohon ditinjau ulang oleh ustadz"
+ ]
+}

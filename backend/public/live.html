@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Lokasi live · Everest</title>
+  <link rel="icon" type="image/png" href="../assets/favicon.png">
+  <link rel="stylesheet" href="../assets/vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="../assets/everest.css">
+  <script src="../assets/theme.js"></script>
+</head>
+<body class="live">
+  <div class="live-head">
+    <img class="live-logo" src="../assets/logo.png" alt="Everest">
+    <h1 id="title">Memuat lokasi…</h1>
+    <span id="status" class="pill"></span>
+    <span class="spacer"></span>
+    <span id="updated" class="small muted"></span>
+    <button type="button" class="theme-toggle" data-theme-toggle>Tema</button>
+  </div>
+  <div id="livemap"></div>
+  <div class="live-foot">
+    <span id="dist" class="dist">Jarak: aktifkan “Lokasi saya”</span>
+    <span class="spacer" style="flex:1"></span>
+    <button type="button" id="me-btn">Lokasi saya</button>
+    <button type="button" id="follow-btn" aria-pressed="true">Ikuti: nyala</button>
+    <a id="call" class="hidden"><button type="button">Telepon</button></a>
+    <a id="nav" target="_blank" rel="noopener" class="hidden"><button type="button">Navigasi</button></a>
+    <a id="gmaps" target="_blank" rel="noopener" class="hidden"><button type="button">Google Maps</button></a>
+  </div>
+  <script src="../assets/vendor/leaflet/leaflet.js"></script>
+  <script src="../socket.io/socket.io.js"></script>
+  <script src="../assets/live.js"></script>
+</body>
+</html>

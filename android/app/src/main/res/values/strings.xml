@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Everest</string>
+    <string name="widget_label">Everest · 6 tombol</string>
+    <string name="widget_description">Rekam, Track, Farhan, Report, Sirine, dan Panic langsung dari layar utama</string>
+</resources>

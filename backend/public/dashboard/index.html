@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Everest · Dashboard</title>
+  <link rel="icon" type="image/png" href="../assets/favicon.png">
+  <link rel="stylesheet" href="../assets/vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="../assets/everest.css">
+  <script src="../assets/theme.js"></script>
+</head>
+<body>
+  <!-- Login -->
+  <section id="login" class="login hidden">
+    <img class="login-logo" src="../assets/logo.png" alt="Everest">
+    <p class="muted">Dashboard satpam dan admin</p>
+    <a id="sso-btn" class="hidden" href="../auth/web/login"><button class="primary" style="width:100%">Masuk dengan SSO UIKA</button></a>
+    <form id="dev-form" class="hidden">
+      <p class="small muted">Mode pengembangan (DEV_LOGIN aktif)</p>
+      <input name="email" type="email" placeholder="email" required>
+      <select name="role">
+        <option value="guard">Satpam</option>
+        <option value="admin">Admin</option>
+      </select>
+      <button class="primary">Masuk (dev)</button>
+    </form>
+    <p id="login-msg" class="small muted"></p>
+    <p class="small"><a id="privacy-link" href="../privasi">Kebijakan privasi</a></p>
+  </section>
+
+  <!-- Aplikasi -->
+  <div id="app" class="hidden">
+    <header class="top">
+      <div class="brand"><img src="../assets/logo.png" alt="Everest"></div>
+      <nav class="tabs" role="tablist">
+        <button data-tab="panic" aria-selected="true">Panic <span id="panic-count" class="badge hidden">0</span></button>
+        <button data-tab="reports" data-admin>Laporan <span id="report-count" class="badge hidden">0</span></button>
+        <button data-tab="history" data-admin>Riwayat panic</button>
+        <button data-tab="users" data-admin>Pengguna</button>
+        <button data-tab="audit" data-admin>Audit</button>
+      </nav>
+      <div class="who"><span id="who"></span><button type="button" class="theme-toggle" data-theme-toggle>Tema</button><button id="logout">Keluar</button></div>
+    </header>
+
+    <main>
+      <section id="tab-panic" class="panic-layout">
+        <div class="panel">
+          <div class="panel-head">
+            <h2>Panic aktif</h2>
+            <label class="duty"><input type="checkbox" id="duty"> Sedang bertugas</label>
+          </div>
+          <div id="panic-list"></div>
+        </div>
+        <div id="map"></div>
+      </section>
+
+      <section id="tab-reports" class="hidden">
+        <div class="toolbar">
+          <h2>Laporan masuk</h2>
+          <select id="report-filter">
+            <option value="">Semua status</option>
+            <option value="baru" selected>Baru</option>
+            <option value="diproses">Diproses</option>
+            <option value="selesai">Selesai</option>
+            <option value="ditolak">Ditolak</option>
+          </select>
+          <div class="seg" role="group" aria-label="Tampilan">
+            <button type="button" data-view="grid" aria-pressed="true">Daftar</button>
+            <button type="button" data-view="map" aria-pressed="false">Peta</button>
+          </div>
+          <button id="report-refresh">Muat ulang</button>
+        </div>
+        <div id="report-grid" class="grid"></div>
+        <div id="report-map-view" class="report-map-wrap hidden">
+          <div id="report-map"></div>
+          <div class="panel">
+            <div class="panel-head"><h2>Sebaran laporan</h2><span id="report-map-count" class="small muted"></span></div>
+            <div class="legend" id="report-legend"></div>
+            <div class="nolok small muted" id="report-nolok"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="tab-history" class="hidden">
+        <div class="toolbar"><h2>Riwayat panic</h2></div>
+        <div class="table-wrap"><table><thead><tr><th>Waktu</th><th>Pengguna</th><th>Status</th><th>Diterima oleh</th><th>Ditutup oleh</th><th>Catatan</th><th>Lokasi</th></tr></thead><tbody id="history-body"></tbody></table></div>
+      </section>
+
+      <section id="tab-users" class="hidden">
+        <div class="toolbar"><h2>Pengguna</h2><input id="user-q" placeholder="Cari nama atau email"></div>
+        <div class="table-wrap"><table><thead><tr><th>Nama</th><th>Email</th><th>HP</th><th>Peran</th><th>Bertugas</th></tr></thead><tbody id="users-body"></tbody></table></div>
+      </section>
+
+      <section id="tab-audit" class="hidden">
+        <div class="toolbar"><h2>Log audit</h2></div>
+        <div class="table-wrap"><table><thead><tr><th>Waktu</th><th>Pelaku</th><th>Aksi</th><th>Target</th></tr></thead><tbody id="audit-body"></tbody></table></div>
+      </section>
+    </main>
+  </div>
+
+  <dialog id="report-dlg">
+    <div class="dlg-body">
+      <img id="rd-photo" alt="Foto laporan">
+      <div><span id="rd-status" class="pill"></span> <span id="rd-cat" class="muted small"></span></div>
+      <div id="rd-desc"></div>
+      <div class="small muted" id="rd-meta"></div>
+      <ul class="timeline" id="rd-history"></ul>
+      <label class="small">Ubah status
+        <select id="rd-new-status">
+          <option value="diproses">Diproses</option>
+          <option value="selesai">Selesai</option>
+          <option value="ditolak">Ditolak</option>
+          <option value="baru">Baru</option>
+        </select>
+      </label>
+      <textarea id="rd-note" rows="2" placeholder="Catatan untuk pelapor (opsional)"></textarea>
+    </div>
+    <div class="dlg-actions">
+      <button id="rd-close">Tutup</button>
+      <button id="rd-save" class="primary">Simpan status</button>
+    </div>
+  </dialog>
+
+  <script src="../assets/vendor/leaflet/leaflet.js"></script>
+  <script src="../socket.io/socket.io.js"></script>
+  <script src="./app.js" type="module"></script>
+</body>
+</html>

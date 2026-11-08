@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Everest" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:colorAccent">@color/brand</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <!-- Splash screen (Android 12+ native, Android 8–11 lewat androidx core-splashscreen) -->
+    <style name="Theme.Everest.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_logo</item>
+        <item name="windowSplashScreenAnimationDuration">300</item>
+        <item name="postSplashScreenTheme">@style/Theme.Everest</item>
+    </style>
+    <style name="Theme.Everest.Translucent" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+    <style name="Theme.Everest.Invisible" parent="android:Theme.Translucent.NoTitleBar">
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowNoDisplay">false</item>
+    </style>
+    <style name="Theme.Everest.Siren" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/siren</item>
+        <item name="android:statusBarColor">@color/siren</item>
+        <item name="android:navigationBarColor">@color/siren</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="Theme.Everest.Panic" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/panic</item>
+        <item name="android:statusBarColor">@color/panic</item>
+        <item name="android:navigationBarColor">@color/panic</item>
+    </style>
+</resources>

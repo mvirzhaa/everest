@@ -1,0 +1,34 @@
+{
+  "name": "everest-backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Backend Everest: sinkron catatan, panic, track, laporan, Farhan, dashboard admin/satpam",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "migrate": "node src/migrate.js",
+    "test": "node --test --test-concurrency=1 test/*.test.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0",
+    "jose": "^5.9.6",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^2.5.0",
+    "pg": "^8.13.1",
+    "sharp": "^0.33.5",
+    "socket.io": "^4.8.1"
+  },
+  "optionalDependencies": {
+    "firebase-admin": "^13.0.2"
+  },
+  "devDependencies": {
+    "socket.io-client": "^4.8.1",
+    "supertest": "^7.0.0"
+  }
+}

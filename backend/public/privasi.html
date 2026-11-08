@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kebijakan Privasi · Everest</title>
+  <link rel="icon" type="image/png" href="./assets/favicon.png">
+  <link rel="stylesheet" href="./assets/everest.css">
+  <script src="./assets/theme.js"></script>
+</head>
+<body class="doc">
+  <!--
+    DRAF untuk ditinjau bagian hukum / Pejabat Pelindungan Data Pribadi UIKA sebelum dipakai.
+    Isi bagian bertanda [ ... ] dan ubah PRIVACY_VERSION di server setiap kali isinya berubah
+    agar aplikasi meminta persetujuan ulang.
+  -->
+  <header class="doc-head">
+    <img src="./assets/logo.png" alt="Everest" class="live-logo">
+    <button type="button" class="theme-toggle" data-theme-toggle aria-label="Ganti tema">Tema</button>
+  </header>
+  <main class="doc-body">
+    <h1>Kebijakan Privasi Everest</h1>
+    <p class="muted">Versi 7 November 2026 · Berlaku untuk aplikasi Android Everest dan dashboard Everest</p>
+
+    <p>Everest adalah aplikasi keselamatan dan produktivitas untuk sivitas akademika Universitas Ibn Khaldun (UIKA) Bogor. Kebijakan ini menjelaskan data pribadi apa yang diproses, untuk apa, siapa yang bisa melihatnya, berapa lama disimpan, dan hak Anda sesuai Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi (UU PDP).</p>
+
+    <h2>1. Pengendali data</h2>
+    <p>Pengendali data adalah Universitas Ibn Khaldun Bogor, dikelola oleh [nama unit pengelola, mis. Direktorat Teknologi Informasi]. Pertanyaan dan permintaan terkait data pribadi dapat dikirim ke [email Pejabat Pelindungan Data Pribadi].</p>
+
+    <h2>2. Data yang diproses per fitur</h2>
+    <table>
+      <thead><tr><th>Fitur</th><th>Data</th><th>Di mana diproses</th></tr></thead>
+      <tbody>
+        <tr><td>Akun</td><td>Nama, email kampus, peran, nomor HP (bila Anda isi)</td><td>Server kampus, melalui SSO E-Portal UIKA</td></tr>
+        <tr><td>Rekam</td><td>Rekaman suara dan transkripnya</td><td>Suara ditranskrip <strong>di HP Anda</strong> dan berkas audionya tetap di HP. Hanya teks transkrip, judul, dan ringkasan yang disinkronkan ke server kampus.</td></tr>
+        <tr><td>Track</td><td>Koordinat lokasi setiap 10 detik, akurasi, kecepatan, persentase baterai</td><td>Hanya saat Track menyala. Dikirim ke server kampus dan dapat dilihat oleh kontak yang Anda pilih.</td></tr>
+        <tr><td>Panic</td><td>Lokasi, baterai, nama, nomor HP, waktu kejadian</td><td>Dikirim ke kontak darurat Anda dan satpam kampus. Bila tidak ada internet, lokasi dikirim lewat SMS dari HP Anda ke nomor kontak darurat.</td></tr>
+        <tr><td>Report</td><td>Foto, deskripsi, kategori, lokasi pengambilan</td><td>Server kampus. Metadata foto (EXIF, termasuk model HP) dihapus saat diterima.</td></tr>
+        <tr><td>Farhan</td><td>Perintah suara dan pertanyaan Anda</td><td>Perintah, pencarian rekaman, dan pembuatan jadwal diproses di HP. Pertanyaan bebas dan ringkasan dikirim ke penyedia AI cloud (lihat bagian 5), hanya bila Anda menyalakan <em>Farhan cloud</em>.</td></tr>
+        <tr><td>Google Calendar</td><td>Akses untuk membuat dan membaca acara kalender</td><td>Hanya bila Anda menautkan akun Google. Token akses disimpan terenkripsi di server kampus.</td></tr>
+        <tr><td>Kontak darurat</td><td>Nama dan nomor HP orang yang Anda tambahkan</td><td>Server kampus dan HP Anda. Beri tahu mereka bahwa Anda menjadikan mereka kontak darurat.</td></tr>
+      </tbody>
+    </table>
+
+    <h2>3. Dasar dan tujuan pemrosesan</h2>
+    <ul>
+      <li><strong>Persetujuan Anda</strong> untuk Rekam, Track, Report, Farhan cloud, dan Google Calendar. Persetujuan dapat ditarik kapan saja dengan mematikan fitur terkait di Profil.</li>
+      <li><strong>Pelindungan kepentingan vital</strong> untuk Panic: lokasi dikirim ke satpam dan kontak darurat agar Anda bisa segera ditolong. Penerima satpam tidak dapat dinonaktifkan.</li>
+      <li>Data tidak digunakan untuk iklan, profil perilaku, atau dijual ke pihak mana pun.</li>
+    </ul>
+
+    <h2>4. Siapa yang dapat melihat data Anda</h2>
+    <ul>
+      <li><strong>Anda sendiri</strong>: semua catatan, laporan, riwayat panic, dan Track Anda.</li>
+      <li><strong>Kontak darurat</strong>: lokasi saat Panic atau Track yang Anda bagikan kepada mereka, melalui tautan peta yang berhenti berlaku 1 jam setelah sesi berakhir.</li>
+      <li><strong>Satpam</strong>: lokasi dan identitas Anda hanya saat Panic. Bila panic tidak ditanggapi dalam beberapa menit, panic diteruskan ke semua satpam lalu ke admin keamanan.</li>
+      <li><strong>Admin</strong>: laporan (Report), riwayat panic, dan log audit untuk tindak lanjut. Admin <strong>tidak</strong> dapat membaca transkrip rekaman Anda melalui dashboard.</li>
+      <li>Setiap akses penting (perubahan peran, status panic, status laporan) dicatat dalam log audit.</li>
+    </ul>
+
+    <h2>5. Pihak ketiga</h2>
+    <ul>
+      <li><strong>Firebase Cloud Messaging (Google)</strong>: mengirim notifikasi ke HP. Isinya berupa nama pengirim, jenis kejadian, dan tautan lokasi.</li>
+      <li><strong>Penyedia AI cloud</strong> [Anthropic / Google, sesuai konfigurasi server]: menerima pertanyaan Farhan dan potongan transkrip yang relevan bila Farhan cloud menyala. Data dikirim melalui server kampus, bukan langsung dari HP.</li>
+      <li><strong>Google Calendar</strong>: bila Anda menautkan akun.</li>
+      <li><strong>OpenStreetMap</strong>: menyediakan gambar peta. Hanya potongan peta yang diminta, tanpa identitas Anda.</li>
+    </ul>
+
+    <h2>6. Masa simpan</h2>
+    <ul>
+      <li>Titik lokasi Track biasa dihapus otomatis setelah [30] hari.</li>
+      <li>Data Panic disimpan sebagai catatan keamanan kampus selama [jangka waktu sesuai kebijakan keamanan].</li>
+      <li>Catatan dan transkrip disimpan sampai Anda menghapusnya. Catatan yang dihapus dikosongkan isinya di server pada sinkronisasi berikutnya.</li>
+      <li>Laporan disimpan selama [jangka waktu] setelah ditandai selesai.</li>
+    </ul>
+
+    <h2>7. Keamanan</h2>
+    <ul>
+      <li>Basis data di HP dienkripsi (SQLCipher) dengan kunci yang tersimpan di Android Keystore.</li>
+      <li>Komunikasi HP–server menggunakan HTTPS.</li>
+      <li>Tautan peta live memakai token acak dan kedaluwarsa.</li>
+      <li>Foto laporan hanya dapat dibuka melalui tautan bertanda tangan yang berlaku singkat.</li>
+    </ul>
+
+    <h2>8. Hak Anda</h2>
+    <p>Sesuai UU PDP, Anda berhak:</p>
+    <ul>
+      <li>memperoleh informasi tentang pemrosesan data Anda;</li>
+      <li>mengakses dan memperoleh salinan data;</li>
+      <li>memperbaiki data yang tidak akurat (misalnya mengedit transkrip di aplikasi);</li>
+      <li>menghapus data;</li>
+      <li>menarik persetujuan;</li>
+      <li>mengajukan keberatan.</li>
+    </ul>
+    <p>Ajukan permintaan ke kontak pada bagian 1. Kami akan menanggapi dalam waktu yang ditentukan peraturan.</p>
+
+    <h2>9. Perubahan kebijakan</h2>
+    <p>Bila kebijakan ini berubah, aplikasi akan menampilkan ringkasan perubahan dan meminta persetujuan Anda kembali sebelum fitur terkait dapat digunakan.</p>
+  </main>
+</body>
+</html>

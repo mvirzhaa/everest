@@ -1,0 +1,22 @@
+# Salin menjadi everest.properties lalu isi sesuai server kampus.
+# File everest.properties tidak perlu di-commit.
+
+# Alamat backend Everest (tanpa garis miring di akhir).
+# Server produksi kampus: https://sc.uika-bogor.ac.id/everest
+# Emulator → komputer sendiri: http://10.0.2.2:8080
+SERVER_URL=https://sc.uika-bogor.ac.id/everest
+
+# SSO E-Portal UIKA (OpenID Connect). Kosongkan bila belum tersedia,
+# lalu gunakan DEV_LOGIN=true untuk pengujian.
+OIDC_ISSUER=https://eportal.uika-bogor.ac.id
+OIDC_CLIENT_ID=everest-android
+DEV_LOGIN=false
+
+# Google Calendar: Client ID OAuth tipe "Web application" (sama dengan GOOGLE_CLIENT_ID di backend)
+GOOGLE_SERVER_CLIENT_ID=
+
+# Firebase Cloud Messaging (dari Firebase Console → Project settings → aplikasi Android)
+FCM_PROJECT_ID=
+FCM_APP_ID=
+FCM_API_KEY=
+FCM_SENDER_ID=

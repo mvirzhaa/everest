@@ -9,10 +9,9 @@
   const CLOSED = new Set(['ditangani', 'aman', 'dibatalkan']);
 
   const map = L.map('livemap', { zoomControl: true }).setView([-6.5579, 106.7962], 15);
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
-    subdomains: 'abcd',
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>',
   }).addTo(map);
   const trail = L.polyline([], { color: '#f26b0f', weight: 4, opacity: 0.85 }).addTo(map);
   let marker = null;

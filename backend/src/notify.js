@@ -30,12 +30,25 @@ export async function initFcm(log = console.log) {
     log(`FCM_SERVICE_ACCOUNT tidak ditemukan (${config.fcmServiceAccount}): notifikasi push dimatikan`);
     return;
   }
-  const admin = (await import('firebase-admin')).default;
-  const cred = JSON.parse(fs.readFileSync(config.fcmServiceAccount, 'utf8'));
-  admin.initializeApp({ credential: admin.credential.cert(cred) });
-  messaging = admin.messaging();
-  fcmReady = true;
-  log('FCM siap');
+  try {
+    const raw = fs.readFileSync(config.fcmServiceAccount, 'utf8').trim();
+    if (!raw || raw === '{}') {
+      log('FCM_SERVICE_ACCOUNT kosong / dummy: notifikasi push dimatikan');
+      return;
+    }
+    const cred = JSON.parse(raw);
+    if (!cred.project_id || !cred.private_key) {
+      log('FCM_SERVICE_ACCOUNT belum valid: notifikasi push dimatikan');
+      return;
+    }
+    const admin = (await import('firebase-admin')).default;
+    admin.initializeApp({ credential: admin.credential.cert(cred) });
+    messaging = admin.messaging();
+    fcmReady = true;
+    log('FCM siap');
+  } catch (err) {
+    log(`FCM gagal diinisialisasi (${err.message}): notifikasi push dimatikan`);
+  }
 }
 
 /**

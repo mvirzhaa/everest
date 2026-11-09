@@ -6,7 +6,18 @@ import { pool } from './db.js';
 const dir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../migrations');
 
 export async function migrate(log = console.log) {
-  await pool.query('CREATE TABLE IF NOT EXISTS schema_migrations (name text PRIMARY KEY, applied_at timestamptz NOT NULL DEFAULT now())');
+  let attempts = 15;
+  while (attempts > 0) {
+    try {
+      await pool.query('CREATE TABLE IF NOT EXISTS schema_migrations (name text PRIMARY KEY, applied_at timestamptz NOT NULL DEFAULT now())');
+      break;
+    } catch (err) {
+      attempts--;
+      if (attempts === 0) throw err;
+      log(`Menunggu database siap... (${err.message})`);
+      await new Promise((r) => setTimeout(r, 1000));
+    }
+  }
   const done = new Set((await pool.query('SELECT name FROM schema_migrations')).rows.map((r) => r.name));
   const files = (await fs.readdir(dir)).filter((f) => f.endsWith('.sql')).sort();
   for (const f of files) {

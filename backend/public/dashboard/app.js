@@ -129,9 +129,10 @@ let selected = null;
 
 function initMap() {
   map = L.map('map').setView([-6.5579, 106.7962], 15); // kampus UIKA Bogor
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
     maxZoom: 19,
-    attribution: '&copy; kontributor OpenStreetMap',
+    subdomains: 'abcd',
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
   }).addTo(map);
 }
 
@@ -340,7 +341,11 @@ let reportLayer = null;
 function renderReportMap() {
   if (!reportMap) {
     reportMap = L.map('report-map').setView([-6.5579, 106.7962], 15);
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '&copy; kontributor OpenStreetMap' }).addTo(reportMap);
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+      maxZoom: 19,
+      subdomains: 'abcd',
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
+    }).addTo(reportMap);
     reportLayer = L.featureGroup().addTo(reportMap);
     $('#report-legend').innerHTML = Object.entries(REPORT_COLOR)
       .map(([k, c]) => `<div><i style="background:${c}"></i>${STATUS_LABEL[k]}</div>`)

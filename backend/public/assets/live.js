@@ -9,9 +9,9 @@
   const CLOSED = new Set(['ditangani', 'aman', 'dibatalkan']);
 
   const map = L.map('livemap', { zoomControl: true }).setView([-6.5579, 106.7962], 15);
-  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
     maxZoom: 19,
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>',
+    attribution: '&copy; <a href="https://www.esri.com" target="_blank" rel="noopener">Esri</a>, OpenStreetMap',
   }).addTo(map);
   const trail = L.polyline([], { color: '#f26b0f', weight: 4, opacity: 0.85 }).addTo(map);
   let marker = null;

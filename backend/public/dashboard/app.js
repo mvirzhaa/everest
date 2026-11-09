@@ -129,9 +129,9 @@ let selected = null;
 
 function initMap() {
   map = L.map('map').setView([-6.5579, 106.7962], 15); // kampus UIKA Bogor
-  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
     maxZoom: 19,
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>',
+    attribution: '&copy; <a href="https://www.esri.com" target="_blank" rel="noopener">Esri</a>, OpenStreetMap',
   }).addTo(map);
 }
 
@@ -340,9 +340,9 @@ let reportLayer = null;
 function renderReportMap() {
   if (!reportMap) {
     reportMap = L.map('report-map').setView([-6.5579, 106.7962], 15);
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
       maxZoom: 19,
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>',
+      attribution: '&copy; <a href="https://www.esri.com" target="_blank" rel="noopener">Esri</a>, OpenStreetMap',
     }).addTo(reportMap);
     reportLayer = L.featureGroup().addTo(reportMap);
     $('#report-legend').innerHTML = Object.entries(REPORT_COLOR)

@@ -54,8 +54,10 @@ const FLOW_COOKIE = 'everest_oidc_flow';
 router.get(
   '/auth/web/login',
   h(async (req, res) => {
+    if (!config.oidc.issuer || !config.oidc.webClientId) {
+      return res.redirect(`${config.basePath}/dashboard/`);
+    }
     const d = await oidcDiscovery();
-    if (!config.oidc.webClientId) throw new HttpError(503, 'OIDC_WEB_CLIENT_ID belum diisi');
     const verifier = crypto.randomBytes(32).toString('base64url');
     const state = crypto.randomBytes(16).toString('base64url');
     const challenge = crypto.createHash('sha256').update(verifier).digest('base64url');

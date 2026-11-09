@@ -27,3 +27,4 @@ for (const m of models) {
   console.log(`selesai: ${m} (${(fs.statSync(target).size / 1024 / 1024).toFixed(1)} MB)`);
 }
 console.log('Semua model siap di:', dir);
+
